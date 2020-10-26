@@ -1,6 +1,8 @@
 body{
 	 background-image: url("bgprank.jpg");
 	 background-attachment: fixed;
+	background-size: cover;
+	background-repea:no-repeat;
 }
 html{
 	font-size: 10px;
