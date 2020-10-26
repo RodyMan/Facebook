@@ -27,11 +27,9 @@ h1{
 }
 @keyframes animateprank{
 	from{
-	font-size:0rem;
 	top:10rem;
 	}
 	to{
-	font-size:4rem;
 	bottom:10rem;
 	}
 }
