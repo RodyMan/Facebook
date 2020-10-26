@@ -26,10 +26,10 @@ h1{
 	animation: animateprank 0.75s linear infinite alternate;
 }
 @keyframes animateprank{
-	from{
+	50%{
 	color:red;
 	}
-	to{
+	100%{
 	color:yellow;
 	}
 }
