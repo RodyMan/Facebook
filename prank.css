@@ -28,9 +28,10 @@ h1{
 @keyframes animateprank{
 	from{
 	font-size:0rem;
+	top:10px;
 	}
 	to{
-	 font-size:5rem;
-	transform: rotatey(360deg);
+	font-size:4rem;
+	bottom:10px;
 	}
 }
