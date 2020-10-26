@@ -14,7 +14,12 @@ h4{
 	font-size: 4rem;
 	color: white;
 	text-shadow: 0px 5px black;
-	margin-right: -0.15rem;
+	margin-right: 1.75rem;
+}
+h6{
+	margin-left: -1.35rem;
+	font-size: 10px;
+	white-space: nowrap;
 }
 p{
 	font-size: 1.75rem;
@@ -56,7 +61,7 @@ input[type="submit"]:hover{
 .reg{
 
 	position: absolute;
-	padding: 1.75rem 8.75rem;
+	padding: 1rem 7.90rem;
 	box-sizing: border-box;
 	transform: translate(-50%, -50%);
 	top: 50%;
