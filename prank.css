@@ -28,6 +28,7 @@ h1{
 @keyframes animateprank{
 	from{
 	font-size:0rem;
+	transform:rotate(-20deg);
 	}
 	to{
 	 font-size:5rem;
