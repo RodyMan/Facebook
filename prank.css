@@ -32,6 +32,6 @@ h1{
 	}
 	to{
 	 font-size:5rem;
-	transform: rotate(20deg);
+	transform: rotatey(20deg);
 	}
 }
