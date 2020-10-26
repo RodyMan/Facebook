@@ -23,4 +23,13 @@ h1{
 	color: red;
 	font-size: 4rem;
 	white-space: nowrap;
+	animation: animateprank 0.35s linear infinite alternate;
+}
+@keyframes animateprank{
+	from{
+	font-size:0rem;
+	}
+	to{
+	 font-size:5rem:
+	}
 }
