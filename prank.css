@@ -31,5 +31,6 @@ h1{
 	}
 	to{
 	bottom:40%;
+	transform:rotate(90deg);
 	}
 }
