@@ -12,6 +12,6 @@ h1{
 	box-sizing: border-box;
 	transform: translate(-50%, -50%);
 	color: red;
-	font-size: 10rem;
+	font-size: 5rem;
 	white-space: nowrap;
 }
